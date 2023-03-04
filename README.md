@@ -2,4 +2,5 @@
 
 ### Repository for studying Java's Collections framework. 
 
-![image](https://user-images.githubusercontent.com/123518676/222907119-7259f383-3420-48da-a1e9-496d49537c3e.png)
+![image](https://user-images.githubusercontent.com/123518676/222907208-e6b8a450-47dc-4bbc-9400-587d1afe4fb7.png)
+
